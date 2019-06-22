@@ -1,0 +1,15 @@
+.clock {
+  width: 550px;
+  border: 2px solid black;
+  background-image: url("https://media.comicbook.com/2018/03/jojo-1096580-1280x0.jpeg");
+  background-size: cover;
+  font-family: Open Sans;
+  padding: 50px;
+  color: white;
+}
+
+.clock p {
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}
